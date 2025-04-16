@@ -25,6 +25,7 @@ int display(student obj)
     cout<<"My name is = "<<obj.name<<endl;
     cout<<"My program is = "<<obj.program<<endl;
     cout<<"My id is = "<<obj.id<<endl;
+
 }
 int main()
 {
